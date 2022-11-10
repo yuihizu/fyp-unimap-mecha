@@ -1,4 +1,4 @@
-# fyp-unimap-mecha
+# FYP2022
 ## Final Year Project for Diploma of Mechatronic Enginering 2022
 ## Indoor Hydoponic Farming Monitoring Device
 
